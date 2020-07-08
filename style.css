@@ -1,0 +1,124 @@
+
+.other{
+    height: 700px;
+    background-color: rgb(241, 252, 247);
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 100px;
+}
+
+.btn{
+    background-color: rgb(23, 218, 127);
+    color: white;
+   border-radius: 30px;
+}
+.clr{
+    color: red;
+}
+.clrr{
+    color:rgb(23, 218, 127); 
+    
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,rgb(10, 173, 97) 0%, hsl(157, 93%, 58%) 100%);
+    color: white;
+   border-radius: 30px;
+   padding: 10px 25px;
+   border: none;
+   
+
+}
+.buy-now-button:hover{
+    color: black;
+}
+
+.other1{
+    margin-bottom: 100px;
+}
+
+h5{
+    text-align: center;
+    color: rgb(74, 4, 139);
+}
+
+.card img{
+    height: 90px;
+    width: 90px;
+    margin-top: 30px;;
+    margin-left: 90px;
+   
+    
+}
+.other1{
+    margin-bottom: 100px;
+}
+
+
+
+.card-text{
+    text-align: center;
+}
+
+.card{
+     background-color: rgb(241, 252, 247);
+     border-radius: 10px;
+     box-shadow: 5px 5px 10px lightblue;
+}
+.cards{
+    background-color: white;
+    box-shadow: 5px 5px 10px lightblue;
+}
+h6{
+    color: rgb(45, 4, 110);
+    font-size: 30px;
+    text-align: center;
+}
+.other-design img{
+    margin: 20px 25px;
+    width: 300px;
+    height: 200px;
+}
+.card-text1{
+    text-align: left;
+}
+h4{
+    color:  rgb(74, 4, 139) ;
+
+}
+
+.card-footer{
+    background-color: white;
+}
+.card-footer img{
+    width: 30px;
+    height: 25px;
+    margin-left: -10px;
+   
+}
+.card-footer p{
+    margin-left: 20px;
+    margin-top: -45px;
+    
+}
+
+.design img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: 0px 50px;
+}
+
+.otherr{
+    margin-bottom: 50px;
+}
+.diff-design{
+    background-color: rgb(10, 6, 39);
+    color: white;
+    height: 750px;
+   
+}
+.row{
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
